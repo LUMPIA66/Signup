@@ -2,14 +2,14 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
 import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
 
-// Firebase Configuration 
+// Updated API configuration - March 2025
 const firebaseConfig = {
-    apiKey: "AIzaSyDxZQJHD3hN5sI8gt_yP1JuQtn2UF2R-fg",
-    authDomain: "ritcheproject.firebaseapp.com",
-    projectId: "ritcheproject",
-    storageBucket: "ritcheproject.firebasestorage.app",
-    messagingSenderId: "272323265748",
-    appId: "1:272323265748:web:28324786f2326927f9e741"
+    apiKey: "AIzaSyBSXS7G8XGiQZ4EDqw3vz64eC7hU6wB20M",
+    authDomain: "sign-up-and-log-in-form-639b1.firebaseapp.com",
+    projectId: "sign-up-and-log-in-form-639b1",
+    storageBucket: "sign-up-and-log-in-form-639b1.firebasestorage.app",
+    messagingSenderId: "21097400172273",
+    appId: "1:1097400172273:web:7dacf98b6aae8c5fc9b350"
 };
 
 // Initialize Firebase
