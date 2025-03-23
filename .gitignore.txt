@@ -1,0 +1,15 @@
+# Ignore system & personal files
+../../*
+
+# Allow only files inside Signup folder
+!*
+
+# Ignore unnecessary folders
+.vscode/
+.m2/
+.nbi/
+AppData/
+OneDrive/
+Saved Games/
+Searches/
+Videos/
